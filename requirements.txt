@@ -1,0 +1,5 @@
+matplotlib
+pandas
+streamlit
+wordcloud
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git@fdc33d0dba77225398833d5ecaa78b4dcfa76170
